@@ -5,7 +5,7 @@
 **Instructions**
 
 **1.** 
-Install Python (Download) if you don’t have it.
+Install Python if you don’t have it.
 
 **2.** 
 Install pynput in your terminal or command prompt:
